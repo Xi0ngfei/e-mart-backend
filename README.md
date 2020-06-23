@@ -1,1 +1,2 @@
-# e-mart-backend
+# e-mart
+This is a e-mart project
